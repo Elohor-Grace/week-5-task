@@ -1,0 +1,46 @@
+.container{
+    background-color: white;
+    
+    
+    
+}
+#UC{
+    background-color: green;
+    height:60px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+    color:white;
+    font-family:"Times New Roman"
+    
+}
+form div{
+    display:flex;
+    justify-content: space-between;
+    padding:20px 10px 5px;
+   
+}
+form input{
+    width:180px;
+    font-size: small;
+    font-style: italic;
+    border-width: 3px;
+}
+form label{
+    font-size: 15px;
+    font-family: "Times New Roman"
+}
+#convert{
+    
+    width:80px;
+    margin-left: 50px;
+    margin-top: 15px;
+    height:40px;
+    border-radius:5px;
+    background-color: green;
+    color: white;
+    
+    
+}
+
+
